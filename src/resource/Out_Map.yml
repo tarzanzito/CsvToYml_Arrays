@@ -1,0 +1,262 @@
+attributes:
+  attribute-data-map:
+    Cidadao-NIC:
+      name: Identificação Civil
+      attr: http://interop.gov.pt/MDC/Cidadao/NIC
+      group: Cartão de Cidadão
+
+    Cidadao-NomeProprio:
+      name: Nome Próprio
+      attr: http://interop.gov.pt/MDC/Cidadao/NomeProprio
+      group: Cartão de Cidadão
+
+    Cidadao-NomeApelido:
+      name: Apelido
+      attr: http://interop.gov.pt/MDC/Cidadao/NomeApelido
+      group: Cartão de Cidadão
+
+    Cidadao-DataNascimento:
+      name: Data de Nascimento
+      attr: http://interop.gov.pt/MDC/Cidadao/DataNascimento
+      group: Cartão de Cidadão
+
+    Cidadao-NomeCompleto:
+      name: Nome Completo
+      attr: http://interop.gov.pt/MDC/Cidadao/NomeCompleto
+      group: Cartão de Cidadão
+
+    Cidadao-NIF:
+      name: Identificação Fiscal
+      attr: http://interop.gov.pt/MDC/Cidadao/NIF
+      group: Cartão de Cidadão e Autoridade Tributária
+
+    Cidadao-NISS:
+      name: Identificação na Seg. Social
+      attr: http://interop.gov.pt/MDC/Cidadao/NISS
+      group: Cartão de Cidadão e Segurança Social
+
+    Cidadao-NSNS:
+      name: Identificação no Serviço Nacional Saúde
+      attr: http://interop.gov.pt/MDC/Cidadao/NSNS
+      group: Cartão de Cidadão
+
+    Cidadao-NIFCifrado:
+      name: Identificação Fiscal (Cifrada)
+      attr: http://interop.gov.pt/MDC/Cidadao/NIFCifrado
+      group: Plataforma deInteroperabilidade
+
+    Cidadao-NISSCifrado:
+      name: Identificação na Seg. Social (Cifrada)
+      attr: http://interop.gov.pt/MDC/Cidadao/NISSCifrado
+      group: Plataforma de Interoperabilidade
+
+    Cidadao-NICCifrado:
+      name: Identificação Civil (Cifrada)
+      attr: http://interop.gov.pt/MDC/Cidadao/NICCifrado
+      group: Plataforma de Interoperabilidade
+
+    Cidadao-NSNSCifrado:
+      name: Identificação no Serviço Nacional Saúde (Cifrada)
+      attr: http://interop.gov.pt/MDC/Cidadao/NSNSCifrado
+      group: Plataforma de Interoperabilidade
+
+    Cidadao-Nacionalidade:
+      name: Nacionalidade
+      attr: http://interop.gov.pt/MDC/Cidadao/Nacionalidade
+      group: Cartão de Cidadão
+
+    Cidadao-Idade:
+      name: Idade
+      attr: http://interop.gov.pt/MDC/Cidadao/Idade
+      group: Cartão de Cidadão
+
+    Cidadao-NumeroSerie:
+      name: Número de série do certificado
+      attr: http://interop.gov.pt/MDC/Cidadao/NumeroSerie
+      group: Cartão de Cidadão
+
+    Cidadao-Foto:
+      name: Foto
+      attr: http://interop.gov.pt/MDC/Cidadao/Foto
+      group: Cartão de Cidadão
+
+    Cidadao-DataValidade:
+      name: Data de Validade
+      attr: http://interop.gov.pt/MDC/Cidadao/DataValidade
+      group: Cartão de Cidadão
+
+    Cidadao-Altura:
+      name: Altura
+      attr: http://interop.gov.pt/MDC/Cidadao/Altura
+      group: Cartão de Cidadão
+
+    Cidadao-NomeProprioPai:
+      name: Nome Próprio do Pai
+      attr: http://interop.gov.pt/MDC/Cidadao/NomeProprioPai
+      group: Cartão de Cidadão
+
+    Cidadao-NomeApelidoPai:
+      name: Apelido do Pai
+      attr: http://interop.gov.pt/MDC/Cidadao/NomeApelidoPai
+      group: Cartão de Cidadão
+
+    Cidadao-NomeProprioMae:
+      name: Nome Próprio da Mãe
+      attr: http://interop.gov.pt/MDC/Cidadao/NomeProprioMae
+      group: Cartão de Cidadão
+
+    Cidadao-NomeApelidoMae:
+      name: Apelido da Mãe
+      attr: http://interop.gov.pt/MDC/Cidadao/NomeApelidoMae
+      group: Cartão de Cidadão
+
+    Cidadao-IndicacoesEventuais:
+      name: Indicações Eventuais
+      attr: http://interop.gov.pt/MDC/Cidadao/IndicacoesEventuais
+      group: Cartão de Cidadão
+
+    Cidadao-NoDocumento:
+      name: Número do Documento
+      attr: http://interop.gov.pt/MDC/Cidadao/NoDocumento
+      group: Cartão de Cidadão
+
+    Cidadao-mrz1:
+      name: Zona Leitura Ótica 1
+      attr: http://interop.gov.pt/MDC/Cidadao/mrz1
+      group: Cartão de Cidadão
+
+    Cidadao-mrz2:
+      name: Zona Leitura Ótica 2
+      attr: http://interop.gov.pt/MDC/Cidadao/mrz2
+      group: Cartão de Cidadão
+
+    Cidadao-mrz3:
+      name: Zona Leitura Ótica 3
+      attr: http://interop.gov.pt/MDC/Cidadao/mrz3
+      group: Cartão de Cidadão
+
+    Cidadao-VersaoCartao:
+      name: Versão do Cartão
+      attr: http://interop.gov.pt/MDC/Cidadao/VersaoCartao
+      group: Cartão de Cidadão
+
+    Cidadao-CartaoPAN:
+      name: Número Cartão PAN
+      attr: http://interop.gov.pt/MDC/Cidadao/CartaoPAN
+      group: Cartão de Cidadão
+
+    Cidadao-DataEmissao:
+      name: Data de Emissão
+      attr: http://interop.gov.pt/MDC/Cidadao/DataEmissao
+      group: Cartão de Cidadão
+
+    Cidadao-EntidadeEmissora:
+      name: Entidade Emissora
+      attr: http://interop.gov.pt/MDC/Cidadao/EntidadeEmissora
+      group: Cartão de Cidadão
+
+    Cidadao-TipoDocumento:
+      name: Tipo de Documento
+      attr: http://interop.gov.pt/MDC/Cidadao/TipoDocumento
+      group: Cartão de Cidadão
+
+    Cidadao-LocalDePedido:
+      name: Local de Pedido
+      attr: http://interop.gov.pt/MDC/Cidadao/LocalDePedido
+      group: Cartão de Cidadão
+
+    Cidadao-Versao:
+      name: Versão
+      attr: http://interop.gov.pt/MDC/Cidadao/Versao
+      group: Cartão de Cidadão
+
+    Cidadao-Distrito:
+      name: Distrito
+      attr: http://interop.gov.pt/MDC/Cidadao/Distrito
+      group: Cartão de Cidadão
+
+    Cidadao-Concelho:
+      name: Concelho
+      attr: http://interop.gov.pt/MDC/Cidadao/Concelho
+      group: Cartão de Cidadão
+
+    Cidadao-Freguesia:
+      name: Freguesia
+      attr: http://interop.gov.pt/MDC/Cidadao/Freguesia
+      group: Cartão de Cidadão
+
+    Cidadao-AbrTipoDeVia:
+      name: Abreviatura de Tipo de Via
+      attr: http://interop.gov.pt/MDC/Cidadao/AbrTipoDeVia
+      group: Cartão de Cidadão
+
+    Cidadao-TipoDeVia:
+      name: Tipo de Via
+      attr: http://interop.gov.pt/MDC/Cidadao/TipoDeVia
+      group: Cartão de Cidadão
+
+    Cidadao-DesignacaoDaVia:
+      name: Designação da Via
+      attr: http://interop.gov.pt/MDC/Cidadao/DesignacaoDaVia
+      group: Cartão de Cidadão
+
+    Cidadao-AbrTipoEdificio:
+      name: Abreviatura do Tipo de Edifício
+      attr: http://interop.gov.pt/MDC/Cidadao/AbrTipoEdificio
+      group: Cartão de Cidadão
+
+    Cidadao-TipoEdificio:
+      name: Tipo de Edifício
+      attr: http://interop.gov.pt/MDC/Cidadao/TipoEdificio
+      group: Cartão de Cidadão
+
+    Cidadao-NumeroPorta:
+      name: Número de Porta
+      attr: http://interop.gov.pt/MDC/Cidadao/NumeroPorta
+      group: Cartão de Cidadão
+
+    Cidadao-Andar:
+      name: Andar
+      attr: http://interop.gov.pt/MDC/Cidadao/Andar
+      group: Cartão de Cidadão
+
+    Cidadao-Lado:
+      name: Lado
+      attr: http://interop.gov.pt/MDC/Cidadao/Lado
+      group: Cartão de Cidadão
+
+    Cidadao-Lugar:
+      name: Lugar
+      attr: http://interop.gov.pt/MDC/Cidadao/Lugar
+      group: Cartão de Cidadão
+
+    Cidadao-Localidade:
+      name: Localidade
+      attr: http://interop.gov.pt/MDC/Cidadao/Localidade
+      group: Cartão de Cidadão
+
+    Cidadao-CodigoPostal4:
+      name: Código Postal 4 digitos
+      attr: http://interop.gov.pt/MDC/Cidadao/CodigoPostal4
+      group: Cartão de Cidadão
+
+    Cidadao-CodigoPostal3:
+      name: Código Postal 3 digitos
+      attr: http://interop.gov.pt/MDC/Cidadao/CodigoPostal3
+      group: Cartão de Cidadão
+
+    Cidadao-LocalidadePostal:
+      name: Localidade Postal
+      attr: http://interop.gov.pt/MDC/Cidadao/LocalidadePostal
+      group: Cartão de Cidadão
+
+    Cidadao-NumeroDeControlo:
+      name: Número de Controlo
+      attr: http://interop.gov.pt/MDC/Cidadao/NumeroDeControlo
+      group: Cartão de Cidadão
+
+    Cidadao-Passaport:
+      name: Passaporte
+      attr: http://interop.gov.pt/MDC/Cidadao/Passaport
+      group: Chave Móvel Digital
+

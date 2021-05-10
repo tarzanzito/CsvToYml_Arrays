@@ -1,0 +1,52 @@
+Identificação Civil;http://interop.gov.pt/MDC/Cidadao/NIC;Cartão de Cidadão
+Nome Próprio;http://interop.gov.pt/MDC/Cidadao/NomeProprio;Cartão de Cidadão
+Apelido;http://interop.gov.pt/MDC/Cidadao/NomeApelido;Cartão de Cidadão
+Data de Nascimento;http://interop.gov.pt/MDC/Cidadao/DataNascimento;Cartão de Cidadão
+Nome Completo;http://interop.gov.pt/MDC/Cidadao/NomeCompleto;Cartão de Cidadão
+Identificação Fiscal;http://interop.gov.pt/MDC/Cidadao/NIF;Cartão de Cidadão e Autoridade Tributária
+Identificação na Seg. Social;http://interop.gov.pt/MDC/Cidadao/NISS;Cartão de Cidadão e Segurança Social
+Identificação no Serviço Nacional Saúde;http://interop.gov.pt/MDC/Cidadao/NSNS;Cartão de Cidadão
+Identificação Fiscal (Cifrada);http://interop.gov.pt/MDC/Cidadao/NIFCifrado;Plataforma deInteroperabilidade
+Identificação na Seg. Social (Cifrada);http://interop.gov.pt/MDC/Cidadao/NISSCifrado;Plataforma de Interoperabilidade
+Identificação Civil (Cifrada);http://interop.gov.pt/MDC/Cidadao/NICCifrado;Plataforma de Interoperabilidade
+Identificação no Serviço Nacional Saúde (Cifrada);http://interop.gov.pt/MDC/Cidadao/NSNSCifrado;Plataforma de Interoperabilidade
+Nacionalidade;http://interop.gov.pt/MDC/Cidadao/Nacionalidade;Cartão de Cidadão
+Idade;http://interop.gov.pt/MDC/Cidadao/Idade;Cartão de Cidadão
+Número de série do certificado;http://interop.gov.pt/MDC/Cidadao/NumeroSerie;Cartão de Cidadão
+Foto;http://interop.gov.pt/MDC/Cidadao/Foto;Cartão de Cidadão
+Data de Validade;http://interop.gov.pt/MDC/Cidadao/DataValidade;Cartão de Cidadão
+Altura;http://interop.gov.pt/MDC/Cidadao/Altura;Cartão de Cidadão
+Nome Próprio do Pai;http://interop.gov.pt/MDC/Cidadao/NomeProprioPai;Cartão de Cidadão
+Apelido do Pai;http://interop.gov.pt/MDC/Cidadao/NomeApelidoPai;Cartão de Cidadão
+Nome Próprio da Mãe;http://interop.gov.pt/MDC/Cidadao/NomeProprioMae;Cartão de Cidadão
+Apelido da Mãe;http://interop.gov.pt/MDC/Cidadao/NomeApelidoMae;Cartão de Cidadão
+Indicações Eventuais;http://interop.gov.pt/MDC/Cidadao/IndicacoesEventuais;Cartão de Cidadão
+Número do Documento;http://interop.gov.pt/MDC/Cidadao/NoDocumento;Cartão de Cidadão
+Zona Leitura Ótica 1;http://interop.gov.pt/MDC/Cidadao/mrz1;Cartão de Cidadão
+Zona Leitura Ótica 2;http://interop.gov.pt/MDC/Cidadao/mrz2;Cartão de Cidadão
+Zona Leitura Ótica 3;http://interop.gov.pt/MDC/Cidadao/mrz3;Cartão de Cidadão
+Versão do Cartão;http://interop.gov.pt/MDC/Cidadao/VersaoCartao;Cartão de Cidadão
+Número Cartão PAN;http://interop.gov.pt/MDC/Cidadao/CartaoPAN;Cartão de Cidadão
+Data de Emissão;http://interop.gov.pt/MDC/Cidadao/DataEmissao;Cartão de Cidadão
+Entidade Emissora;http://interop.gov.pt/MDC/Cidadao/EntidadeEmissora;Cartão de Cidadão
+Tipo de Documento;http://interop.gov.pt/MDC/Cidadao/TipoDocumento;Cartão de Cidadão
+Local de Pedido;http://interop.gov.pt/MDC/Cidadao/LocalDePedido;Cartão de Cidadão
+Versão;http://interop.gov.pt/MDC/Cidadao/Versao;Cartão de Cidadão
+Distrito;http://interop.gov.pt/MDC/Cidadao/Distrito;Cartão de Cidadão
+Concelho;http://interop.gov.pt/MDC/Cidadao/Concelho;Cartão de Cidadão
+Freguesia;http://interop.gov.pt/MDC/Cidadao/Freguesia;Cartão de Cidadão
+Abreviatura de Tipo de Via;http://interop.gov.pt/MDC/Cidadao/AbrTipoDeVia;Cartão de Cidadão
+Tipo de Via;http://interop.gov.pt/MDC/Cidadao/TipoDeVia;Cartão de Cidadão
+Designação da Via;http://interop.gov.pt/MDC/Cidadao/DesignacaoDaVia;Cartão de Cidadão
+Abreviatura do Tipo de Edifício;http://interop.gov.pt/MDC/Cidadao/AbrTipoEdificio;Cartão de Cidadão
+Tipo de Edifício;http://interop.gov.pt/MDC/Cidadao/TipoEdificio;Cartão de Cidadão
+Número de Porta;http://interop.gov.pt/MDC/Cidadao/NumeroPorta;Cartão de Cidadão
+Andar;http://interop.gov.pt/MDC/Cidadao/Andar;Cartão de Cidadão
+Lado;http://interop.gov.pt/MDC/Cidadao/Lado;Cartão de Cidadão
+Lugar;http://interop.gov.pt/MDC/Cidadao/Lugar;Cartão de Cidadão
+Localidade;http://interop.gov.pt/MDC/Cidadao/Localidade;Cartão de Cidadão
+Código Postal 4 digitos;http://interop.gov.pt/MDC/Cidadao/CodigoPostal4;Cartão de Cidadão
+Código Postal 3 digitos;http://interop.gov.pt/MDC/Cidadao/CodigoPostal3;Cartão de Cidadão
+Localidade Postal;http://interop.gov.pt/MDC/Cidadao/LocalidadePostal;Cartão de Cidadão
+Número de Controlo;http://interop.gov.pt/MDC/Cidadao/NumeroDeControlo;Cartão de Cidadão
+Passaporte;http://interop.gov.pt/MDC/Cidadao/Passaport;Chave Móvel Digital
